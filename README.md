@@ -12,11 +12,11 @@ A premium Android task manager designed to actively fight procrastination. Unlik
 
 *(Images are stored in the asset folder and will load automatically)*
 
-![Main Dashboard](asset/1000096772.jpg) 
-![AI Check-In Interrogation](asset/1000096773.jpg) 
-![Sincerity Analytics Report](asset/1000096774.jpg) 
-![Profile and Monthly Comparisons](asset/1000096775.jpg) 
-![System Notification Triggers](asset/1000096770.jpg)
+![Main Dashboard](assets/.aistudio/1000096772.jpg) 
+![AI Check-In Interrogation](assets/.aistudio/1000096773.jpg) 
+![Sincerity Analytics Report](assets/.aistudio/1000096774.jpg) 
+![Profile and Monthly Comparisons](assets/.aistudio/1000096775.jpg) 
+![System Notification Triggers](assets/.aistudio/1000096770.jpg)
 
 ---
 
